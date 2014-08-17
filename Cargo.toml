@@ -1,0 +1,8 @@
+[package]
+
+name = "cryptopals"
+version = "0.0.1"
+authors = ["Michael Whittaker <mjw297@cornell.edu>"]
+
+[[bin]]
+name = "cryptopals"
